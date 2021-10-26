@@ -1,0 +1,163 @@
+{
+  "DiasSemana": {
+    "dataConsulta": [
+      {
+        "text": "Ação",
+        "value": "action",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 50,
+        "sortable": "false"
+      },
+      {
+        "text": "Domingo",
+        "value": "domingo",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Segunda",
+        "value": "segunda",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Terça",
+        "value": "terca",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Quarta",
+        "value": "quarta",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Quinta",
+        "value": "quinta",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Sexta",
+        "value": "sexta",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      },
+      {
+        "text": "Sabado",
+        "value": "sabado",
+        "align": "start",
+        "light": "true",
+        "divider": "true",
+        "width": 200
+      }
+    ]
+  },
+  "registroData": [
+    {
+      "domingo": "10/10/2021 07:30-18:00",
+      "segunda": "11/10/2021 07:00-18:00",
+      "terca": "12/10/2021 07:00-18:00",
+      "quarta": "13/10/2021 07:00-18:00",
+      "quinta": "14/10/2021 07:00-18:00",
+      "sexta": "15/10/2021 07:00-18:00",
+      "sabado": "16/10/2021 Folga"
+    },
+    {
+      "domingo": "17/10/2021 Folga",
+      "segunda": "18/10/2021 09:00-13:00",
+      "terca": "19/10/2021 09:00-13:00",
+      "quarta": "20/10/2021 09:00-13:00",
+      "quinta": "21/10/2021 09:00-13:00",
+      "sexta": "22/10/2021 09:00-13:00",
+      "sabado": "23/10/2021 Folga"
+    },
+    {
+      "domingo": "24/10/2021 07:30-18:00",
+      "segunda": "25/10/2021 07:00-18:00",
+      "terca": "26/10/2021 07:00-18:00",
+      "quarta": "27/10/2021 07:00-18:00",
+      "quinta": "28/10/2021 07:00-18:00",
+      "sexta": "29/10/2021 07:00-18:00",
+      "sabado": "30/10/2021 Folga"
+    },
+    {
+      "domingo": "31/10/2021 07:30-18:00",
+      "segunda": "01/10/2021 09:00-13:00",
+      "terca": "02/10/2021 09:00-13:00",
+      "quarta": "03/10/2021 09:00-13:00",
+      "quinta": "04/10/2021 09:00-13:00",
+      "sexta": "05/10/2021 09:00-13:00",
+      "sabado": "06/10/2021 Folga"
+    }
+  ],
+  "escala": [
+    {
+      "name": "",
+      "domingo": "Folga",
+      "segunda": "09:00-20:00",
+      "terca": "09:00-20:00",
+      "quarta": "09:00-20:00",
+      "quinta": "09:00-20:00",
+      "sexta": "09:00-20:00",
+      "sabado": "Folga",
+      "id": 2
+    },
+    {
+      "domingo": "7:30-18:00",
+      "segunda": "7:00-18:00",
+      "terca": "7:00-18:00",
+      "quarta": "7:00-18:00",
+      "quinta": "7:00-18:00",
+      "sexta": "7:00-18:00",
+      "sabado": "Folga",
+      "id": 3
+    },
+    {
+      "domingo": "7:30-18:00",
+      "segunda": "9:00-13:30",
+      "terca": "9:00-13:30",
+      "quarta": "9:00-13:30",
+      "quinta": "9:00-13:30",
+      "sexta": "9:00-13:30",
+      "sabado": "Folga",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "domingo": "Folga",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "",
+      "sabado": ""
+    },
+    {
+      "id": 6,
+      "domingo": "31/10/2021 7:30-18:00",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "",
+      "sabado": ""
+    }
+  
+  ]
+}
